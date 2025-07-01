@@ -1,5 +1,5 @@
 /*
-Enter your query here.
+Enter your query here h.
 Please append a semicolon ";" at the end of the query and enter your query in a single line to avoid error.
 */
 DECLARE @i INT = 20
