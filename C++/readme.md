@@ -1,1 +1,1 @@
-in this folder add hackerrank solution of c++
+In this folder add hackerrank solution of c++
