@@ -7,7 +7,7 @@ This repository contains my solutions to various HackerRank challenges in:
 
 ## 📌 About Me
 
-- 🔗 [**My HackerRank Profile**](https://www.hackerrank.com/yourusername)
+- 🔗 [**My HackerRank Profile**](https://www.hackerrank.com/manukumarpal07)
 
 ## 🤝 Contributing
 
